@@ -15,13 +15,13 @@
 ### 세부인원 현황
 * 이용하(팀장) 
   - Email : yong77aa@naver.com
-    + 파트 : Android 개발
+    + 파트 : Android 개발 및 머신러닝
 * 조명근
   - Email : area409@gmail.com
     + 파트 : BackEnd 및 머신러닝
 * 최승명
   - Email : 710csm@naver.com
-    + 파트 : Android 개발
+    + 파트 : Android 개발 및 머신러닝
 * 황영조
   - Email : dudwh9615@naver.com
-    + 파트 : 머신러닝      
+    + 파트 : BackEnd 및 머신러닝
