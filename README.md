@@ -24,7 +24,7 @@
 | Document | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS-Document |
 | Android | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS_Android |
 | Backend | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS_Backend |
-| Machine Learning | 내용 22 |
+| Machine Learning | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS_MachineLearning |
 ***        
 ### 세부인원 현황
 * 이용하(팀장) 
