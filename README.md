@@ -15,9 +15,9 @@
 ### 파트별 Repository
 | 파트 | Repository URL |
 |:--------|:--------|
-| Document | 내용 12 |
-| Android | 내용 22 |
-| Server | 내용 22 |
+| Document | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS-Document |
+| Android | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS_Android |
+| Backend | https://github.com/2020-Hallym-Capstone-Design-Team-PHAS/PHAS_Backend |
 | Machine Learning | 내용 22 |
 ***        
 ### 세부인원 현황
